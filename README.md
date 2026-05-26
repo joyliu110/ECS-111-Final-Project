@@ -1,6 +1,7 @@
 # Create the Perfect Group Assignments!
 
 ## Overview
+\[TBD at the end of the project\]
 
 ## Objective
 Group work is a critical component of collaborative learning in academic and nonacademic settings alike. In many situations, groups are formed randomly, with little thought put into compatibility. This can lead to mismatches in communication styles, work ethics, and overall interpersonal compatibility. These issues can reduce efficiency and impact learning outcomes. 
